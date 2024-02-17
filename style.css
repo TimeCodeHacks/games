@@ -1,0 +1,14 @@
+#Header {
+    font-size: 200%;
+    font-family:"Jacquarda Bastarda 9";
+    margin-top: auto;
+    color: lightblue;
+}
+div {
+    font-size: 150%;
+    font-family: "Kode Mono";
+}
+body {
+    background-color: rgb(31, 29, 29);
+}
+
